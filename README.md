@@ -42,3 +42,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+--------------
+
+# NOTAS DE INSTALAÇÃO
+
+## Instalar a biblioteca de rotas
+
+$ yarn add react-router-dom
+
+## Instalar a biblioteca para fazermos chamadas HTTP
+
+$ yarn add axios
+
+## Instalar a biblioteca CLIENTE para o REALTIME
+
+$ yarn add socket.io-client
